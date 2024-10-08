@@ -1,1 +1,2 @@
 Hello git
+Xin chao Git
